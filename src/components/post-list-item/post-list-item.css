@@ -16,9 +16,11 @@
 }
 .app-list-item .btn-star {
     color: #FFD700;
+    background-color: transparent;
 }
 .app-list-item .btn-trash {
     color: red;
+    background-color: transparent;
 }
 .app-list-item .fa-heart {
     width: 35px;
